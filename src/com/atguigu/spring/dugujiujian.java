@@ -7,6 +7,7 @@ public class dugujiujian {
 		System.out.println("22222");
 		System.out.println("444444");
 		System.out.println("333");
+		System.out.println("5555");
        
 		
 	}
